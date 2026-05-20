@@ -1,5 +1,5 @@
 {
-  "latest": "1.2.2",
+  "latest": "1.2.3",
   "download_url": "https://github.com/dlwnsgur5048-create/sniperpro/releases/latest",
   "notes": "🔍 조건검색식 스캔 추가 (영웅문 HTS 조건식 활용으로 3~5분 스캔) + 키움 거부 메시지 캡처 + 매매 로그 파일 저장 + 매수 실패 시 상태 진행 차단 (오르비텍/머큐리/후성 사례 재발 방지)"
 }
